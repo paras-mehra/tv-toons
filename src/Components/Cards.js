@@ -34,17 +34,17 @@ function Cards() {
     {
       id:7,
       img: "./images/post7.jpg",
-      title: `How to Train Your Dragon: The Hidden World Movie Hindi Dubbed Download 4k`,
+      title: `How to Train Your Dragon: The Hidden World Movie Hindi/English Dubbed Download 4k`,
     },
     {
       id:8,
       img: "./images/post8.jpg",
-      title: `Tangled (2010) Full Movie Hindi Dubbed Download [480P, 720P, 1080P]`,
+      title: `Tangled (2010) Full Movie Hindi/English Dubbed Download [480P, 720P, 1080P]`,
     },
     {
       id:9,
       img: "./images/post9.jpg",
-      title: `Bey blade All Seasons Hindi/English Episodes Download [480/720/1080p]`,
+      title: `Bey blade All Seasons Episodes Hindi/English Dubbed Download [480/720/1080p]`,
     },
   ];
 

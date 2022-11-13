@@ -3,7 +3,7 @@ import React from "react";
 function Slider() {
   return (
     <div className="main-slider bg-black pb-4">
-      <p className="m-heading text-white px-4 text-center pt-2">TV TOONS INDIA - DOWNLOAD MOVIES, WEB SERIES AND TV SHOWS</p>
+      <p className="m-heading text-white px-2 text-center pt-2">TV TOONS INDIA - DOWNLOAD MOVIES, WEB SERIES AND TV SHOWS</p>
       <div
         id="carouselExampleDark"
         className="carousel carousel-dark slide"
