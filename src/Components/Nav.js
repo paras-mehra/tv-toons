@@ -15,7 +15,7 @@ export const Nav = () => {
   return (
     <div className="bg-white text-center">
       <div className="img pt-3">
-        <NavLink to="/tv-toons-india">
+        <NavLink to="/">
           <img
             src="./images/logo.png"
             style={{ width: "200px" }}
