@@ -46,7 +46,7 @@ function Slider() {
         <div className="carousel-inner">
           <div className="carousel-item active" data-bs-interval="500">
             <img
-              src="./images/cover.png"
+              src="./Images/cover.png"
               className="d-block w-100"
               alt="cover"
             />
@@ -54,28 +54,28 @@ function Slider() {
           </div>
           <div className="carousel-item" data-bs-interval="500">
             <img
-              src="./images/cover1.jpg"
+              src="./Images/cover1.jpg"
               className="d-block w-100"
               alt="cover"
             />
           </div>
           <div className="carousel-item" data-bs-interval="500">
             <img
-              src="./images/cover2.jpg"
+              src="./Images/cover2.jpg"
               className="d-block w-100"
               alt="cover"
             />
           </div>
           <div className="carousel-item" data-bs-interval="500">
             <img
-              src="./images/cover3.png"
+              src="./Images/cover3.png"
               className="d-block w-100"
               alt="cover"
             />
           </div>
           <div className="carousel-item" data-bs-interval="500">
             <img
-              src="./images/cover4.jpg"
+              src="./Images/cover4.jpg"
               className="d-block w-100"
               alt="cover"
             />
