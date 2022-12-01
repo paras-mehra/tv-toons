@@ -1,5 +1,5 @@
 import React from "react";
-import { HashRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import HomePage from "./Pages/HomePage";
 import AnimePage from "./Pages/AnimePage";
 import MoviesPage from "./Pages/MoviesPage";
@@ -7,7 +7,7 @@ import RequestPage from "./Pages/RequestPage";
 
 function App() {
   return (
-    <Router basename="/">
+    <HashRouter basename="/">
       <Routes>
         <Route exact path="/" element={<HomePage />}></Route>
       </Routes>
@@ -20,7 +20,7 @@ function App() {
       <Routes>
         <Route path="/request" exact element={<RequestPage />}></Route>
       </Routes>
-    </Router>
+    </HashRouter>
   );
 }
 
