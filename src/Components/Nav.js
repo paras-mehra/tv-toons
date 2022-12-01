@@ -17,7 +17,7 @@ export const Nav = () => {
       <div className="img pt-3">
         <NavLink to="/">
           <img
-            src="./images/logo.png"
+            src="./Images/logo.png"
             style={{ width: "200px" }}
             alt=""
           />

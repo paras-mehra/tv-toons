@@ -3,47 +3,47 @@ function Cards() {
   const cardInfo = [
     {
       id:1,
-      img: "./images/siya-ram.jpg",
+      img: "./Images/siya-ram.jpg",
       title: `Ramayana: The Legend of Prince Rama Hindi Dubbed Download [480p/720p/1080p]`,
     },
     {
       id:2,
-      img: "./images/post2.png",
+      img: "./Images/post2.png",
       title: `Spider-Man: Into the Spider-Verse Hindi Dubbed Download [480p/720p/1080p]`,
     },
     {
       id:3,
-      img: "./images/post3.jpg",
+      img: "./Images/post3.jpg",
       title: `Ben 10 Movie 2021 Hindi/English Dubbed Download [480p/720p/1080p]`,
     },
     {
       id:4,
-      img: "./images/post4.jpg",
+      img: "./Images/post4.jpg",
       title: `Cars (2006) Full Movie Hindi/English Dubbed Download [480p/720p/1080p]`,
     },
     {
       id:5,
-      img: "./images/post5.jpg",
+      img: "./Images/post5.jpg",
       title: `Doraemon The Movie Stand By Me 2 Hindi Dubbed Download [480p/720p/1080p]`,
     },
     {
       id:6,
-      img: "./images/post6.jpg",
+      img: "./Images/post6.jpg",
       title: `Dragon Ball Super All Episodes Hindi Dubbed  Download [480p/720p/1080p]`,
     },
     {
       id:7,
-      img: "./images/post7.jpg",
+      img: "./Images/post7.jpg",
       title: `How to Train Your Dragon: The Hidden World Movie Hindi/English Dubbed Download 4k`,
     },
     {
       id:8,
-      img: "./images/post8.jpg",
+      img: "./Images/post8.jpg",
       title: `Tangled (2010) Full Movie Hindi/English Dubbed Download [480P, 720P, 1080P]`,
     },
     {
       id:9,
-      img: "./images/post9.jpg",
+      img: "./Images/post9.jpg",
       title: `Bey blade All Seasons Episodes Hindi/English Dubbed Download [480/720/1080p]`,
     },
   ];

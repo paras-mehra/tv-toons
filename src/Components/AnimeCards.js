@@ -4,48 +4,48 @@ function AnimeCards() {
   const cardInfo = [
     {
       id:1,
-      img: "./images/Pokemon.jpg",
+      img: "./Images/Pokemon.jpg",
       title: `Pokemon All Seasons Hindi Dubbed Download
           [480p/720p/1080p]`,
     },
     {
       id:2,
-      img: "./images/Tokyo-Revengers.jpg",
+      img: "./Images/Tokyo-Revengers.jpg",
       title: `Tokyo Revengers Episodes Hindi Download [480p/720p/1080p]`,
     },
     {
       id:3,
-      img: "./images/Shinchan.jpg",
+      img: "./Images/Shinchan.jpg",
       title: `Shinchan All Seasons Hindi Dubbed Download [480p/720p/1080p]`,
     },
     {
       id:4,
-      img: "./images/Demon-Slayer.jpg",
+      img: "./Images/Demon-Slayer.jpg",
       title: `Demon Slayer Episodes Hindi Dubbed Download [480p/720p/1080p]`,
     },
     {
       id:5,
-      img: "./images/Naruto.jpg",
+      img: "./Images/Naruto.jpg",
       title: `Naruto (2002-2007) All Episodes Hindi Download [480p/720p/1080p/4]`,
     },
     {
       id:6,
-      img: "./images/Death-Note.jpg",
+      img: "./Images/Death-Note.jpg",
       title: `Death Note All Episodes Hindi Dubbed Download [480p/720/1080p]`,
     },
     {
       id:7,
-      img: "./images/DBZ.jpg",
+      img: "./Images/DBZ.jpg",
       title: `Dragon Ball Z All Episodes Hindi Download [480p/720/1080p]`,
     },
     {
       id:8,
-      img: "./images/One-Punch-Man.jpg",
+      img: "./Images/One-Punch-Man.jpg",
       title: `One Punch Man All Episodes Hindi Download [480p/720/1080p]`,
     },
     {
       id:9,
-      img: "./images/Beyblade.png",
+      img: "./Images/Beyblade.png",
       title: `Beyblade Season 2 All Episodes Hindi Download [480p/720/1080p]`,
     },
   ];

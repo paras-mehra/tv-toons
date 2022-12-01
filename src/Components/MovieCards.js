@@ -4,47 +4,47 @@ function MovieCards() {
   const cardInfo = [
     {
       id:1,
-      img: "./images/movie.jpg",
+      img: "./Images/movie.jpg",
       title: `Dragon Ball Super Broly Movie Hindi Dubbed Download [480p/720p/1080p]`,
     },
     {
       id:2,
-      img: "./images/movie1.jpg",
+      img: "./Images/movie1.jpg",
       title: `The Lion King Movie Hindi/English/Tamil Dubbed Download [480p/720p/1080p]`,
     },
     {
       id:3,
-      img: "./images/Hanumanji.jpg",
+      img: "./Images/Hanumanji.jpg",
       title: `Return of Hanuman Movie 2017 Hindi/English Dubbed Download [480p/720p/1080p]`,
     },
     {
       id:4,
-      img: "./images/movie3.jpg",
+      img: "./Images/movie3.jpg",
       title: `All Harry Potter Movies Hindi/English Dubbed Download [480p/720p/1080p]`,
     },
     {
       id:5,
-      img: "./images/movie4.jpg",
+      img: "./Images/movie4.jpg",
       title: `Ice Age 2002 Movie English/Hindi/Tamil Dubbed Download [480p/720p/1080p]`,
     },
     {
       id:6,
-      img: "./images/movie5.jpg",
+      img: "./Images/movie5.jpg",
       title: `The Angry Birds Movie Hindi/English Dubbed Download [480p/720p/1080p]`,
     },
     {
       id:7,
-      img: "./images/movie6.jpg",
+      img: "./Images/movie6.jpg",
       title: `Doraemon Nobita's Chronicle of the Moon Exploration Hindi/English Download 4k`,
     },
     {
       id:8,
-      img: "./images/movie7.jpg",
+      img: "./Images/movie7.jpg",
       title: `Pokemon Movie Victini aur Reshiram Hindi/English Download [480p/720p/1080p]`,
     },
     {
       id:9,
-      img: "./images/movie8.jpg",
+      img: "./Images/movie8.jpg",
       title: `Tom and Jerry Movie Hindi/English/Tamil Dubbed Download [480p/720p/1080p]`,
     },
   ];
