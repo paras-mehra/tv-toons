@@ -6,7 +6,7 @@ import 'react-toastify/dist/ReactToastify.css';
 function Form() {
   const form = useRef();
 
-  const sendEmail = (e) => {
+  const sendEmail = (e) => { 
     e.preventDefault();
 
     emailjs.sendForm("service_4ljfg7q","template_051qr0d", form.current, 'dsznMuj64w_Rk8BNe')

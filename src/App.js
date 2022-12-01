@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import HomePage from "./Pages/HomePage";
 import AnimePage from "./Pages/AnimePage";
 import MoviesPage from "./Pages/MoviesPage";
@@ -7,7 +7,7 @@ import RequestPage from "./Pages/RequestPage";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/">
       <Routes>
         <Route exact path="/" element={<HomePage />}></Route>
       </Routes>
