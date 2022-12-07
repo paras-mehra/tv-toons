@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tv-toons/static/css/main.e7500abe.css",
-    "main.js": "/tv-toons/static/js/main.a7dbbd3d.js",
+    "main.js": "/tv-toons/static/js/main.e9718f5e.js",
     "index.html": "/tv-toons/index.html",
     "main.e7500abe.css.map": "/tv-toons/static/css/main.e7500abe.css.map",
-    "main.a7dbbd3d.js.map": "/tv-toons/static/js/main.a7dbbd3d.js.map"
+    "main.e9718f5e.js.map": "/tv-toons/static/js/main.e9718f5e.js.map"
   },
   "entrypoints": [
     "static/css/main.e7500abe.css",
-    "static/js/main.a7dbbd3d.js"
+    "static/js/main.e9718f5e.js"
   ]
 }
