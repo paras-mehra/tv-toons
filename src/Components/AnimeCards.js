@@ -35,7 +35,7 @@ function AnimeCards() {
     },
     {
       id:7,
-      img: "./Images/DBZ.jpg",
+      img: "./Images/DBZ.JPG",
       title: `Dragon Ball Z All Episodes Hindi Download [480p/720/1080p]`,
     },
     {
